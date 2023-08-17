@@ -1,0 +1,6 @@
+SELECT *
+FROM `solude-growth.Resistracker.Amostras` AS a
+LEFT JOIN `solude-growth.Resistracker.Antibioticos` AS t1 ON a.ID_Antibiotico = t1.ID_Antibiotico
+LEFT JOIN `solude-growth.Resistracker.Microrganismos` AS t2 ON a.ID_Microrganismo = t2.ID_Microrganismo
+LEFT JOIN `solude-growth.Resistracker.Periodos` AS t3 ON a.ID_Periodo = t3.ID_Periodo
+LEFT JOIN `solude-growth.Resistracker.Sitios` AS t4 ON a.ID_Sitio = t4.ID_Sitio

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "solude-growth",
+  "private_key_id": "b86cf15b138e41070742a13b0ed0950d3f9d32a2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsNlkN1UwtKVVg\ndozghnYiCnilVWLbfxAFoltyt5zpX9G8HUbjfp1jJ8631QMA3WyPeeg79ZUmYjFJ\ngsFF/NpqCSty75NptYLpfhN9EtWblt2NakM5DSvSsosalIyDVdBGq8y54dlexMhj\ncTcGHGEcYk9Klv+sO7E1cq1PABeUBir7SWuSP/2ip6VzwY6eLPUPIFuWBM31q0ET\nL9cGgjtOLOvYBzFtyewcXjGkLQs7VlaVp4gsbxBtIuFI6M+3JQr7P2kpNHZUWC0m\nOH2KvTHCEPsw3u+1o8TQeu+jD2bWtmphvHES2dnCfaxeTI3wAJ7w7FYlP+dxxRzO\nv0EhC68XAgMBAAECggEAK9bkAcEAVOjWSqmzQD8KmKzYvKIJef4VKpIDvKbgY4qY\nfk5nqucjEshh9+taieBUUAwFIipo7y4FBQUrxXDSezbdYDN77+ecrWsCdA8U4Lhd\nqy/XcBEZzFfWUIxrXs28KRl4EwPbDaSDrMj37G7SC+M88yyQZpyFhqksVFWeKvih\nucTt0rOcKkMRMPNrSBfogTZBEgF67odctVA30ZT08Ubn17gsj6SAbFAL0FLelphS\n36x9sRe5GLFozGTMfIbH3IoTvYyoTIinevYxDxAZiuOokYFwkmClyX3jPaiaZIjH\nE2jyyqcoYYKiqagOp73IfzUDW/Qp/q86lY48KvTKUQKBgQDj9nMEvkmiCaDmoN/B\nFhBKoB0dPO6RmNr677F+Qb7WrNBB7Jt2MVq4v7l27xxkh8M1NpTXLykmO1+Iazdi\n84kwzko4xGvBBmX72LMrp25aaMgODfGAWjNbIAflA/p53igtnPP1LAAEmZrPTEJ+\nfxFW5tkBKMtGzDRe54W8H2dDEQKBgQDBZI/Svm1nCf8mjWSMvzvzofuumrjhfA7i\nMnx6+X2LZvxzrruqDZQ33kwc5hSK2BSlZzchArbLMyTckC3HTphe6n523nmj7IRR\nbLyNVhcP9G4XYo+eFYDQR8wVAklNp46anN8o+oAVB1PXrCIR1oYfMzq0d8N9y0Vl\nbCYyiNH/pwKBgQCQuZsGDOTkeaZsJQBJLn/DUOmK8W8oglmr7FbMKGNHGUnSQKvm\nGqlVF2tgpadp74MwGmneP3OpcRJSonb0XFbh5GXcql8ambxPaqE9erulrFYuDg4f\nhaSLGsfIToFLs43gf3+mTHvqb7aIGwswEe3pNP/aK5L6bJRnGCeganN9cQKBgEbV\nUmhaHzASVUYFm8KBeK/vsINvYDAWhE0NONLB9t3MRsMISOwsNRGRdkdPbk68fjNm\n7qZEnDco8GNo25uYie6Z7OAU9HC5/GzmatlJowDRAlHGY9v+/ENNSM6ZG8g5it3O\nf14/AhKxsF/aSFBIRq++z82x4AR/I1fWmNcBjgkZAoGAVpiHwthlfUORsqiNWl3R\n9rMtqmut1jdxzmbGT2S2XmQAKCcG8qgtit4/fF4oqfTNza7Fbndr7btBgjRwC0Y6\nl2dkAby++3ndQ+LdBiuebhqTirt2utykcK9t2o8KbqKdjUhxCsdda3bLcjbvQqLV\nnPhmRbEIKIJBsC4krMRQzRk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bigquery-service@solude-growth.iam.gserviceaccount.com",
+  "client_id": "100053294595181747029",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bigquery-service%40solude-growth.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
